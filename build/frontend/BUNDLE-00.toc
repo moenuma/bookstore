@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/moe/Documents/Projects/bookstore/dist/frontend',
+   'EXECUTABLE')],)
