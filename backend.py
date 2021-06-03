@@ -32,11 +32,3 @@ class Database:
     
     def __del__(self):
         self.conn.close()
-
-
-#insert("Hello world", "Hannah Baker", 2018, 326457693876)
-#print(view())
-#print(search(author="Hannah Baker"))
-#delete(2)
-#update(1,"Okay fine","Jogn Smith",1918, 1234985764)
-#print(view())
